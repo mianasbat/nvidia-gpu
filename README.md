@@ -1,4 +1,4 @@
-## What is CUDA?     
+## What is CUDA?     
 CUDA stands for Compute Unified Device Architecture. CUDA is an API, which allows the programmers
 to harness the parallel computation elements with in the GPU. CUDA is written by NVIDIA. It works on 
 only NVIDIA GPU. CUDA 1.0 was first release n 2007. CUDA 10 is the most recent version.     
@@ -11,7 +11,7 @@ CUDA consists of mainly three parts:
 ## Whast is cuDNN?     
 cuDNN is a predefined deep neural network library for CUDA. It helps in deep learning GPU acceleration. CUDA do not install cuDNN. It needs to be installed seperately.
 
-## What is NVCC:
+## What is NVCC:
 NVCC stands for NVIDIA CUDA Compiler. NVCC makes binary of code that consists of GPU and CPU part.
 
 
