@@ -15,4 +15,11 @@ cuDNN is a predefined deep neural network library for CUDA. It helps in deep lea
 NVCC stands for NVIDIA CUDA Compiler. NVCC makes binary of code that consists of GPU and CPU part.
 
 
+### References
+1. https://docs.nvidia.com/deploy/cuda-compatibility/index.html#overview
+1. https://bit.ly/35s3mEo
+1. https://bit.ly/3qdXXsN
+
+
+
 
